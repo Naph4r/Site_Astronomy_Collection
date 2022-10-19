@@ -1,4 +1,4 @@
 # [🌌Site](https://collectionastronomia-9ifgyzvda-naph4r.vercel.app)
 
-![image](https://user-images.githubusercontent.com/104214681/196566709-79b77a4e-ca75-41c3-b5eb-c7b92f0e5331.png)
+![image](https://user-images.githubusercontent.com/104214681/196568166-61e61cc6-7b8a-4efc-b928-7d40d441aa9f.png)
 
